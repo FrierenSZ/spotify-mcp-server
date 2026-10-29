@@ -1,0 +1,9 @@
+node_modules
+.vscode
+.env
+package-lock.json
+spotify-config.json
+build
+dist
+.DS_Store
+test/
